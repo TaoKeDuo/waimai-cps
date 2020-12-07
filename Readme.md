@@ -1,11 +1,11 @@
- #### 《一只码》吃喝优惠精简版
+ #### 外卖CPS正式版本
  
- 前后端齐全，前端采用uniapp，后端PHP原生代码简单粗暴，直接修改配置文件可以任意增删，
- 美团饿了么京东红包平多多红包等CPS推广,拉新人头都可以操作，个人无需任何费用开通小程序皆可通过
- 凡是有小程序活动页面的基本都可以解决。本项目支持H5 + 微信小程序 两端。
+小程序使用uniapp开发，支持编译成H5 + 微信小程序多平台，自己生产接口配置文件即可，如果不想自己写后端配置可联系作者。
+
+配置接口返回JSON格式可以参考mock.json
  
  为什么说能赚钱？
- * 拿外卖CPs来讲，6%提成，平均一单赚佣金，朋友圈一发铆钉20个亲朋好友同事， 一个月15次外卖，就是300大洋。
+ * 拿外卖CPS来讲，6%提成，平均一单赚佣金，朋友圈一发铆钉20个亲朋好友同事， 一个月15次外卖，就是300大洋。
  * CPA 拉新人的买菜电商 基本一个人头10-20不等。
  
  ##### 安装后端
@@ -26,17 +26,16 @@
  ##### 已上线小程序集合
  
 <image src='./mini-qrcode/1.jpeg' style="margin:0 20px; width:300px;height:auto" >
+
 <image src='./mini-qrcode/2.jpeg' style="margin:0 20px;width:300px;height:auto" > 
+
 <image src='./mini-qrcode/3.jpeg' style="margin:0 20px;width:300px;height:auto" >
+
 <image src='https://user-images.githubusercontent.com/1905823/101273484-c30bfc80-37d0-11eb-944b-f37c92d0d8c2.png' style="margin:0 20px;width:300px;height:auto" >
   
 
 ##### 打赏和群聊
 <image src='./reward.jpeg' style="margin:0 20px;width:300px;height:auto" > <image src='./group.jpeg' style="margin:0 20px;width:300px;height:auto" >
-
-##### 感谢
-
-本项目参考https://github.com/zwpro/coupons 并改进加入后端代码
 
  ##### 开源协议
  仅可以自己使用，二次开发请保留源码安装说明文档以及个人中心处的联系作者，更多感兴趣合作请微信联系phpcoder666，谢谢
