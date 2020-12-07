@@ -320,6 +320,7 @@ export default {
 			.catename {
 				font-size: 28upx;
 				line-height: 28upx;
+				margin-top: 10upx;
 			}
 			image {
 				width: 70upx;

@@ -146,7 +146,6 @@ page {
 				justify-content: space-between;
 				.left {
 					height: 116upx;
-					width: 400upx;
 					display: flex;
 					align-items: center;
 					justify-content: space-between;
