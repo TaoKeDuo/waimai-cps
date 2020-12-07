@@ -25,7 +25,11 @@
  
  ##### 已上线小程序集合
  
-<image src='./mini-qrcode/1.jpeg' style="margin:0 20px; width:300px;height:auto" ><image src='./mini-qrcode/2.jpeg' style="margin:0 20px;width:300px;height:auto" ><image src='./mini-qrcode/3.jpeg' style="margin:0 20px;width:300px;height:auto" >
+<image src='./mini-qrcode/1.jpeg' style="margin:0 20px; width:300px;height:auto" >
+<image src='./mini-qrcode/2.jpeg' style="margin:0 20px;width:300px;height:auto" > 
+<image src='./mini-qrcode/3.jpeg' style="margin:0 20px;width:300px;height:auto" >
+<image src='https://user-images.githubusercontent.com/1905823/101273484-c30bfc80-37d0-11eb-944b-f37c92d0d8c2.png' style="margin:0 20px;width:300px;height:auto" >
+  
 
 ##### 打赏和群聊
 <image src='./reward.jpeg' style="margin:0 20px;width:300px;height:auto" > <image src='./group.jpeg' style="margin:0 20px;width:300px;height:auto" >
