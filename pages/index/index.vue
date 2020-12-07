@@ -59,16 +59,16 @@ export default {
 			uni.request({
 				url: `${CONFIG.baseRequestUrl}/api/home/project`,
 				data: {
-					category_id : index,
-					mobile : CONFIG.phone,
-					page_size : '1',
+					category_id: index,
+					mobile: CONFIG.phone,
+					page_size: '1'
 				},
 				header: {},
 				success: res => {
 					console.log(res.data);
 					let data = res.data.data;
 					this.category = data.category;
-					let projects = data.project?data.project.list:[];
+					let projects = data.project ? data.project.list : [];
 					let newProjects = [];
 					//#ifdef MP-WEIXIN
 					for (let item in projects) {
